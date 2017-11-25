@@ -10,7 +10,7 @@ eg.RegisterPlugin(
     version = "1.0",
     kind = "external",
     guid = "{DBE93E00-5645-4CC6-BB0E-0A9D41586709}",
-    url = "http://www.eventghost.org/forum/viewtopic.php?t=TBD", 
+    url = "https://github.com/RedsGT/egSamsungTV", 
     canMultiLoad = True,
     createMacrosOnAdd = True,
     icon = (
