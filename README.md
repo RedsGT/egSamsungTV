@@ -1,4 +1,4 @@
-# egSamsungTV
+# Samsung TV (IP) 2016+
 
 It's been done to death, but what's another Event Ghost Samsung TV plugin?
 
